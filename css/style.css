@@ -58,7 +58,7 @@ h3 {
 }
 
 footer{
-	position: fixed;
+	position: static;
 	bottom: 0;
 }
 
